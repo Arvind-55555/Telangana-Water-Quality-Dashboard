@@ -5,10 +5,11 @@
 
 Interactive geospatial visualization dashboard for monitoring water quality across 213 stations in Telangana state.
 
-## 🌐 Live Demo
+---
+### Live Artifact
+[![View Artifact](https://img.shields.io/badge/View%20Artifact-%230077B5.svg?style=for-the-badge&logo=claude&logoColor=white)](https://arvind-55555.github.io/Telangana-Water-Quality-Dashboard/index.html)
 
-**Visit Dashboard:** https://arvind-55555.github.io/SWOT-Dashboard/
-
+---
 ## Features
 
 - **Interactive Map** - Leaflet.js-based geospatial visualization
