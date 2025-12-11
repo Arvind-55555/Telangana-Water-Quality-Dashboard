@@ -1,0 +1,15 @@
+# Telangana SWOT Dashboard
+node_modules/
+*.log
+.DS_Store
+.env
+*.pyc
+__pycache__/
+venv/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+archive/
+documentation/

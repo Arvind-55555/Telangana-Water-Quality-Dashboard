@@ -1,0 +1,3305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.865, 18.885]
+      },
+      "properties": {
+        "station_code": "2360",
+        "station_name": "River Godavari at Basara",
+        "water_body": "River Godavari",
+        "DO": 6.7,
+        "pH": 8.13,
+        "BOD": 3.2,
+        "COD": 20,
+        "Total_Coliform": 25,
+        "TDS": 465,
+        "wqi": 73.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.437, 18.875]
+      },
+      "properties": {
+        "station_code": "5105",
+        "station_name": "River Godavari Pushkar Ghat, Mancherial",
+        "water_body": "River Godavari",
+        "DO": 7,
+        "pH": 7.82,
+        "BOD": 3.1,
+        "COD": 20,
+        "Total_Coliform": 21,
+        "TDS": 419.44,
+        "wqi": 74.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.943, 18.921]
+      },
+      "properties": {
+        "station_code": "4255",
+        "station_name": "Ali sagar Reservoir",
+        "water_body": "River Godavari",
+        "DO": 6.5,
+        "pH": 8.09,
+        "BOD": 3.3,
+        "COD": 24,
+        "Total_Coliform": 22,
+        "TDS": 356.16,
+        "wqi": 72.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.531, 19.085]
+      },
+      "properties": {
+        "station_code": "4227",
+        "station_name": "Pochara Water Falls, Adilabad",
+        "water_body": "River Godavari",
+        "DO": 6.9,
+        "pH": 8.11,
+        "BOD": 3.1,
+        "COD": 24,
+        "Total_Coliform": 26,
+        "TDS": 405.44,
+        "wqi": 73.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.452, 18.868]
+      },
+      "properties": {
+        "station_code": "2361",
+        "station_name": "River Godavari at mancherial, Near Rail Way Bridge B/C of Rallavagu",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.6,
+        "BOD": 1.2,
+        "COD": 20,
+        "Total_Coliform": 32,
+        "TDS": 340,
+        "wqi": 76.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.448, 18.873]
+      },
+      "properties": {
+        "station_code": "13",
+        "station_name": "River Godavari at Mancherial",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.6,
+        "BOD": 1.2,
+        "COD": 28,
+        "Total_Coliform": 39,
+        "TDS": 360,
+        "wqi": 76.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.32, 18.772]
+      },
+      "properties": {
+        "station_code": "2362",
+        "station_name": "D/s of River Godavari at Ramagundam near FCI intake well",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.7,
+        "BOD": 1.2,
+        "COD": 20,
+        "Total_Coliform": 46,
+        "TDS": 530,
+        "wqi": 75.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.318, 18.765]
+      },
+      "properties": {
+        "station_code": "5497",
+        "station_name": "River Godawari D/S afer confluence of Ramagundem fertilize and chemicals Ltd(RFCL)Discharge into river",
+        "water_body": "River Godavari",
+        "DO": 6,
+        "pH": 8.32,
+        "BOD": 1.8,
+        "COD": 28,
+        "Total_Coliform": 49,
+        "TDS": 1062,
+        "wqi": 68.4,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.305, 18.758]
+      },
+      "properties": {
+        "station_code": "2363",
+        "station_name": "River Godavari at Godavarikhani near bathing ghat",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.5,
+        "BOD": 1.4,
+        "COD": 24,
+        "Total_Coliform": 49,
+        "TDS": 522,
+        "wqi": 75.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.335, 18.785]
+      },
+      "properties": {
+        "station_code": "2364",
+        "station_name": "River Godavari at Ramagundam upstream near dam",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.5,
+        "BOD": 1.2,
+        "COD": 24,
+        "Total_Coliform": 33,
+        "TDS": 340,
+        "wqi": 76.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.268, 18.652]
+      },
+      "properties": {
+        "station_code": "2356",
+        "station_name": "River Godavari d/s of Ramagundam at Manthani",
+        "water_body": "River Godavari",
+        "DO": 6,
+        "pH": 7.2,
+        "BOD": 1.6,
+        "COD": 32,
+        "Total_Coliform": 47,
+        "TDS": 706,
+        "wqi": 72.1,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.976, 18.822]
+      },
+      "properties": {
+        "station_code": "4662",
+        "station_name": "River godavari Kaleshwaram",
+        "water_body": "River Godavari",
+        "DO": 6.2,
+        "pH": 7.2,
+        "BOD": 1,
+        "COD": 16,
+        "Total_Coliform": 22,
+        "TDS": 340,
+        "wqi": 77.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.165, 18.525]
+      },
+      "properties": {
+        "station_code": "2365",
+        "station_name": "U/s of River Godavari at Kamalapur (V) at M/s.AP Rayons Ltd., intake well",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.1,
+        "BOD": 1.2,
+        "COD": 20,
+        "Total_Coliform": 33,
+        "TDS": 210,
+        "wqi": 76.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.168, 18.522]
+      },
+      "properties": {
+        "station_code": "2366",
+        "station_name": "D/s of River Godavari at Kamalapur (V) at M/s.AP Rayons Ltd., discharge point",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.2,
+        "BOD": 1.2,
+        "COD": 20,
+        "Total_Coliform": 46,
+        "TDS": 200,
+        "wqi": 76.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.592, 17.681]
+      },
+      "properties": {
+        "station_code": "2367",
+        "station_name": "U/s of river Godavari at Bhadrachalam bathing ghat",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.28,
+        "BOD": 1.2,
+        "COD": 28,
+        "Total_Coliform": 40,
+        "TDS": 206,
+        "wqi": 76.1,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.595, 17.684]
+      },
+      "properties": {
+        "station_code": "2368",
+        "station_name": "D/s of river Godavari at Bhadrachalam bathing ghat",
+        "water_body": "River Godavari",
+        "DO": 6.1,
+        "pH": 7.39,
+        "BOD": 1.2,
+        "COD": 20,
+        "Total_Coliform": 49,
+        "TDS": 208,
+        "wqi": 76.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.485, 17.542]
+      },
+      "properties": {
+        "station_code": "2369",
+        "station_name": "River Godavari at Burgampahad",
+        "water_body": "River Godavari",
+        "DO": 6,
+        "pH": 7.35,
+        "BOD": 1.2,
+        "COD": 24,
+        "Total_Coliform": 47,
+        "TDS": 310,
+        "wqi": 76.3,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.132, 18.438]
+      },
+      "properties": {
+        "station_code": "4256",
+        "station_name": "Lower Maneru Dam, Karimnagar",
+        "water_body": "River Maneru / Manair",
+        "DO": 6,
+        "pH": 7.2,
+        "BOD": 1.6,
+        "COD": 28,
+        "Total_Coliform": 46,
+        "TDS": 252,
+        "wqi": 75.1,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.365, 18.542]
+      },
+      "properties": {
+        "station_code": "4665",
+        "station_name": "Outlet of KTPP Ash Pond Joining Moranchavagu",
+        "water_body": "River Maneru / Manair",
+        "DO": 5.4,
+        "pH": 8.21,
+        "BOD": 1.2,
+        "COD": 32,
+        "Total_Coliform": 33,
+        "TDS": 456,
+        "wqi": 74.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.112, 17.988]
+      },
+      "properties": {
+        "station_code": "4258",
+        "station_name": "Singoor Dam Reservoir,",
+        "water_body": "River Manjeera",
+        "DO": 7.4,
+        "pH": 8.21,
+        "BOD": 3.6,
+        "COD": 30,
+        "Total_Coliform": 20,
+        "TDS": 342.72,
+        "wqi": 73.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.035, 18.125]
+      },
+      "properties": {
+        "station_code": "1157",
+        "station_name": "River Manjeera at Raipally",
+        "water_body": "River Manjeera",
+        "DO": 7.1,
+        "pH": 7.56,
+        "BOD": 2.6,
+        "COD": 24,
+        "Total_Coliform": 36,
+        "TDS": 446,
+        "wqi": 74.9,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.952, 18.218]
+      },
+      "properties": {
+        "station_code": "1781",
+        "station_name": "Manjeera at Ganapathi sugars",
+        "water_body": "River Manjeera",
+        "DO": 6.4,
+        "pH": 7.82,
+        "BOD": 4,
+        "COD": 38,
+        "Total_Coliform": 34,
+        "TDS": 559,
+        "wqi": 70.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.885, 18.312]
+      },
+      "properties": {
+        "station_code": "2374",
+        "station_name": "U/s of River Manjeera at Gowdicherla before confluence with Nakkavagu",
+        "water_body": "River Manjeera",
+        "DO": 6.2,
+        "pH": 7.65,
+        "BOD": 4.1,
+        "COD": 40,
+        "Total_Coliform": 31,
+        "TDS": 656.32,
+        "wqi": 69.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.892, 18.315]
+      },
+      "properties": {
+        "station_code": "2375",
+        "station_name": "D/s of River Manjeera at Gowdicherla after confluence with Nakkavagu",
+        "water_body": "River Manjeera",
+        "DO": 6.3,
+        "pH": 7.74,
+        "BOD": 4.3,
+        "COD": 44,
+        "Total_Coliform": 36,
+        "TDS": 494,
+        "wqi": 69.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.865, 18.325]
+      },
+      "properties": {
+        "station_code": "2349",
+        "station_name": "Nakka vagu at Bachugudem",
+        "water_body": "River Manjeera",
+        "DO": 4.1,
+        "pH": 7.26,
+        "BOD": 6.5,
+        "COD": 72,
+        "Total_Coliform": 79,
+        "TDS": 1052.8,
+        "wqi": 58.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.185, 18.452]
+      },
+      "properties": {
+        "station_code": "4226",
+        "station_name": "River Manjeera at Yedu Payala Temple",
+        "water_body": "River Manjeera",
+        "DO": 6.6,
+        "pH": 8.12,
+        "BOD": 2.5,
+        "COD": 26,
+        "Total_Coliform": 63,
+        "TDS": 539,
+        "wqi": 73.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.148, 17.582]
+      },
+      "properties": {
+        "station_code": "2372",
+        "station_name": "Kinnerasani after confluence of KTPS ash pond effluents",
+        "water_body": "River Kinneresani",
+        "DO": 5.2,
+        "pH": 7.52,
+        "BOD": 1.8,
+        "COD": 34,
+        "Total_Coliform": 24,
+        "TDS": 286,
+        "wqi": 73.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.102, 17.495]
+      },
+      "properties": {
+        "station_code": "3080",
+        "station_name": "U/s of Karakavagu at Paloncha",
+        "water_body": "River Kinneresani",
+        "DO": 5.6,
+        "pH": 7.74,
+        "BOD": 1.2,
+        "COD": 24,
+        "Total_Coliform": 27,
+        "TDS": 314,
+        "wqi": 76.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.108, 17.491]
+      },
+      "properties": {
+        "station_code": "3081",
+        "station_name": "D/s of Karakavagu at Paloncha",
+        "water_body": "River Kinneresani",
+        "DO": 5.4,
+        "pH": 7.4,
+        "BOD": 1.4,
+        "COD": 28,
+        "Total_Coliform": 33,
+        "TDS": 294,
+        "wqi": 75.1,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.815, 16.552]
+      },
+      "properties": {
+        "station_code": "1784",
+        "station_name": "River Krishna at thangadi",
+        "water_body": "River Krishna",
+        "DO": 6,
+        "pH": 7.9,
+        "BOD": 1.4,
+        "COD": 26,
+        "Total_Coliform": 49,
+        "TDS": 452,
+        "wqi": 75.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.805, 16.235]
+      },
+      "properties": {
+        "station_code": "39",
+        "station_name": "River Krishna at Gadwal bridge",
+        "water_body": "River Krishna",
+        "DO": 6,
+        "pH": 7.99,
+        "BOD": 1.4,
+        "COD": 26,
+        "Total_Coliform": 49,
+        "TDS": 734,
+        "wqi": 74.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.812, 16.238]
+      },
+      "properties": {
+        "station_code": "4225",
+        "station_name": "Jogulamba Temple, Gadwal",
+        "water_body": "River Krishna",
+        "DO": 5.4,
+        "pH": 7.8,
+        "BOD": 1.8,
+        "COD": 32,
+        "Total_Coliform": 70,
+        "TDS": 838,
+        "wqi": 72.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.315, 16.582]
+      },
+      "properties": {
+        "station_code": "4259",
+        "station_name": "Nagarjuna Sagar Dam Spill way",
+        "water_body": "River Krishna",
+        "DO": 6.5,
+        "pH": 7.51,
+        "BOD": 3.4,
+        "COD": 26,
+        "Total_Coliform": 25,
+        "TDS": 398.16,
+        "wqi": 73.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.085, 16.452]
+      },
+      "properties": {
+        "station_code": "4252",
+        "station_name": "Udaya Samudram balancing Reservoir,",
+        "water_body": "River Krishna",
+        "DO": 6.5,
+        "pH": 7.92,
+        "BOD": 3.5,
+        "COD": 28,
+        "Total_Coliform": 34,
+        "TDS": 393.12,
+        "wqi": 72.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.918, 16.688]
+      },
+      "properties": {
+        "station_code": "1465",
+        "station_name": "Confluence of River Krishna & River Musi at at Wadapally",
+        "water_body": "River Krishna",
+        "DO": 6.8,
+        "pH": 7.55,
+        "BOD": 3.3,
+        "COD": 26,
+        "Total_Coliform": 38,
+        "TDS": 630,
+        "wqi": 72.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.652, 16.545]
+      },
+      "properties": {
+        "station_code": "4663",
+        "station_name": "River Krishna at Mattepally, 500 mts. before bathing ghat",
+        "water_body": "River Krishna",
+        "DO": 6.5,
+        "pH": 7.83,
+        "BOD": 4.4,
+        "COD": 44,
+        "Total_Coliform": 40,
+        "TDS": 602,
+        "wqi": 70.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.135, 17.285]
+      },
+      "properties": {
+        "station_code": "4250",
+        "station_name": "Palair Reservoir, Khammam",
+        "water_body": "River Krishna",
+        "DO": 5.8,
+        "pH": 7.68,
+        "BOD": 1.2,
+        "COD": 22,
+        "Total_Coliform": 33,
+        "TDS": 304,
+        "wqi": 76.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.155, 17.248]
+      },
+      "properties": {
+        "station_code": "4251",
+        "station_name": "D/S of Munneru River, Prakash Nagar, Khammam",
+        "water_body": "River Krishna",
+        "DO": 5.4,
+        "pH": 7.06,
+        "BOD": 1.8,
+        "COD": 32,
+        "Total_Coliform": 49,
+        "TDS": 348,
+        "wqi": 74.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.912, 16.682]
+      },
+      "properties": {
+        "station_code": "5108",
+        "station_name": "River Krishna Before Confluence of River Musi at Wadapally (V)",
+        "water_body": "River Krishna",
+        "DO": 6.9,
+        "pH": 7.53,
+        "BOD": 4.4,
+        "COD": 48,
+        "Total_Coliform": 36,
+        "TDS": 619.36,
+        "wqi": 70.1,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.925, 16.692]
+      },
+      "properties": {
+        "station_code": "5109",
+        "station_name": "River Krishna After Confluence of River Musi at Wadapally (V)",
+        "water_body": "River Krishna",
+        "DO": 6.3,
+        "pH": 7.89,
+        "BOD": 4.1,
+        "COD": 40,
+        "Total_Coliform": 34,
+        "TDS": 632.8,
+        "wqi": 71.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.952, 16.485]
+      },
+      "properties": {
+        "station_code": "5110",
+        "station_name": "River Krishna at Pulichintala Reservoir at Chinthalapalem",
+        "water_body": "River Krishna",
+        "DO": 6.9,
+        "pH": 7.86,
+        "BOD": 3.5,
+        "COD": 30,
+        "Total_Coliform": 40,
+        "TDS": 635.04,
+        "wqi": 72.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.485, 17.392]
+      },
+      "properties": {
+        "station_code": "4253",
+        "station_name": "Musi sample at Bapughat sangam U/S of Musi",
+        "water_body": "River Musi",
+        "DO": 0.3,
+        "pH": 6.8,
+        "BOD": 8,
+        "COD": 100,
+        "Total_Coliform": 540,
+        "TDS": 816,
+        "wqi": 38.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.535, 17.398]
+      },
+      "properties": {
+        "station_code": "4656",
+        "station_name": "River Musi at Moosarambagh bridge, Hyderabad",
+        "water_body": "River Musi",
+        "DO": 0.3,
+        "pH": 6.98,
+        "BOD": 10,
+        "COD": 112,
+        "Total_Coliform": 540,
+        "TDS": 798,
+        "wqi": 35.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.558, 17.385]
+      },
+      "properties": {
+        "station_code": "2339",
+        "station_name": "River Musi at Nagole",
+        "water_body": "River Musi",
+        "DO": 0.3,
+        "pH": 6.87,
+        "BOD": 10,
+        "COD": 116,
+        "Total_Coliform": 430,
+        "TDS": 780,
+        "wqi": 34.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.582, 17.375]
+      },
+      "properties": {
+        "station_code": "4660",
+        "station_name": "River Musi at Peerajadiguda",
+        "water_body": "River Musi",
+        "DO": 0.3,
+        "pH": 6.77,
+        "BOD": 8,
+        "COD": 92,
+        "Total_Coliform": 540,
+        "TDS": 844,
+        "wqi": 37.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.615, 17.365]
+      },
+      "properties": {
+        "station_code": "1173",
+        "station_name": "D/s. of Musi at Pratapasingaram",
+        "water_body": "River Musi",
+        "DO": 0.3,
+        "pH": 6.78,
+        "BOD": 8.4,
+        "COD": 120,
+        "Total_Coliform": 430,
+        "TDS": 840,
+        "wqi": 36.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.652, 17.358]
+      },
+      "properties": {
+        "station_code": "4657",
+        "station_name": "River Musi at Pillaipalli",
+        "water_body": "River Musi",
+        "DO": 0.3,
+        "pH": 6.76,
+        "BOD": 8,
+        "COD": 91,
+        "Total_Coliform": 350,
+        "TDS": 806,
+        "wqi": 38.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.725, 17.295]
+      },
+      "properties": {
+        "station_code": "4254",
+        "station_name": "River Musi sample at Rudravelly bridge",
+        "water_body": "River Musi",
+        "DO": 5.8,
+        "pH": 7.25,
+        "BOD": 4,
+        "COD": 39,
+        "Total_Coliform": 70,
+        "TDS": 786,
+        "wqi": 68.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.985, 17.215]
+      },
+      "properties": {
+        "station_code": "4658",
+        "station_name": "River Musi at Valigonda bridge, Nalgonda dist",
+        "water_body": "River Musi",
+        "DO": 5.5,
+        "pH": 7.2,
+        "BOD": 4.4,
+        "COD": 41,
+        "Total_Coliform": 79,
+        "TDS": 930,
+        "wqi": 67.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.185, 17.055]
+      },
+      "properties": {
+        "station_code": "3082",
+        "station_name": "River Musi at Solipet (Kasaniguda)",
+        "water_body": "River Musi",
+        "DO": 7,
+        "pH": 8.21,
+        "BOD": 3.1,
+        "COD": 28,
+        "Total_Coliform": 58,
+        "TDS": 870.8,
+        "wqi": 72.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.475, 16.885]
+      },
+      "properties": {
+        "station_code": "5106",
+        "station_name": "River Musi at Bheemaram Bridge",
+        "water_body": "River Musi",
+        "DO": 7,
+        "pH": 8.15,
+        "BOD": 3.4,
+        "COD": 35,
+        "Total_Coliform": 43,
+        "TDS": 1169.28,
+        "wqi": 71.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.905, 16.672]
+      },
+      "properties": {
+        "station_code": "5107",
+        "station_name": "River Musi Before Confluence of River Krishna at Wadapally",
+        "water_body": "River Musi",
+        "DO": 6.5,
+        "pH": 7.84,
+        "BOD": 3.5,
+        "COD": 34,
+        "Total_Coliform": 34,
+        "TDS": 659.12,
+        "wqi": 72.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.355, 17.435]
+      },
+      "properties": {
+        "station_code": "1172",
+        "station_name": "U/s of Musi at Gandipet (Osmansagar lake)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6,
+        "pH": 7.15,
+        "BOD": 1,
+        "COD": 17,
+        "Total_Coliform": 40,
+        "TDS": 320,
+        "wqi": 78.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.595, 17.418]
+      },
+      "properties": {
+        "station_code": "2358",
+        "station_name": "Mallapur tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.46,
+        "BOD": 14,
+        "COD": 392,
+        "Total_Coliform": 920,
+        "TDS": 1920,
+        "wqi": 22.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.425, 17.395]
+      },
+      "properties": {
+        "station_code": "1789",
+        "station_name": "Himayathsagar lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6,
+        "pH": 7.59,
+        "BOD": 1,
+        "COD": 12,
+        "Total_Coliform": 33,
+        "TDS": 312,
+        "wqi": 78.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.125, 17.652]
+      },
+      "properties": {
+        "station_code": "3069",
+        "station_name": "Shameerpet lake, Shameerpet",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.2,
+        "pH": 6.32,
+        "BOD": 3.8,
+        "COD": 50,
+        "Total_Coliform": 210,
+        "TDS": 542,
+        "wqi": 61.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.385, 17.495]
+      },
+      "properties": {
+        "station_code": "3078",
+        "station_name": "Pragathinagar cheruvu, Kukatpally",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.95,
+        "BOD": 6,
+        "COD": 99,
+        "Total_Coliform": 350,
+        "TDS": 714,
+        "wqi": 42.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.498, 17.425]
+      },
+      "properties": {
+        "station_code": "2340",
+        "station_name": "Lakshminarayana cheruvu",
+        "water_body": "Lakes  & Tanks",
+        "DO": 3,
+        "pH": 6.96,
+        "BOD": 5,
+        "COD": 50,
+        "Total_Coliform": 430,
+        "TDS": 1026,
+        "wqi": 52.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.392, 17.368]
+      },
+      "properties": {
+        "station_code": "4229",
+        "station_name": "Neknampur Lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.6,
+        "pH": 6.91,
+        "BOD": 6,
+        "COD": 60,
+        "Total_Coliform": 540,
+        "TDS": 856,
+        "wqi": 45.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.685, 16.938]
+      },
+      "properties": {
+        "station_code": "1780",
+        "station_name": "Gandigudem Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.3,
+        "pH": 7.65,
+        "BOD": 5.1,
+        "COD": 58,
+        "Total_Coliform": 63,
+        "TDS": 1302,
+        "wqi": 63.8,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.152, 17.852]
+      },
+      "properties": {
+        "station_code": "2347",
+        "station_name": "Asani Kunta",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0,
+        "pH": 6.83,
+        "BOD": 274,
+        "COD": 1824,
+        "Total_Coliform": 110,
+        "TDS": 6765,
+        "wqi": 15.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.285, 17.685]
+      },
+      "properties": {
+        "station_code": "1783",
+        "station_name": "Kistareddypet Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.2,
+        "pH": 7.26,
+        "BOD": 4.8,
+        "COD": 50,
+        "Total_Coliform": 32,
+        "TDS": 864,
+        "wqi": 66.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.952, 17.745]
+      },
+      "properties": {
+        "station_code": "2348",
+        "station_name": "Khazipally Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.3,
+        "pH": 7.29,
+        "BOD": 3.8,
+        "COD": 40,
+        "Total_Coliform": 23,
+        "TDS": 504,
+        "wqi": 71.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.525, 17.352]
+      },
+      "properties": {
+        "station_code": "1215",
+        "station_name": "Madannapet Lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.9,
+        "pH": 8.4,
+        "BOD": 1.2,
+        "COD": 12,
+        "Total_Coliform": 49,
+        "TDS": 160,
+        "wqi": 77.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.685, 18.125]
+      },
+      "properties": {
+        "station_code": "3068",
+        "station_name": "Ramappa lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.8,
+        "pH": 8.36,
+        "BOD": 1.8,
+        "COD": 36,
+        "Total_Coliform": 39,
+        "TDS": 230,
+        "wqi": 74.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.552, 18.265]
+      },
+      "properties": {
+        "station_code": "1447",
+        "station_name": "Dharmasagar tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.9,
+        "pH": 7.86,
+        "BOD": 1,
+        "COD": 16,
+        "Total_Coliform": 40,
+        "TDS": 222,
+        "wqi": 77.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.588, 18.015]
+      },
+      "properties": {
+        "station_code": "3084",
+        "station_name": "Waddepally tank, Kazipet",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.4,
+        "pH": 6.66,
+        "BOD": 1.2,
+        "COD": 22,
+        "Total_Coliform": 46,
+        "TDS": 352,
+        "wqi": 75.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.605, 18.025]
+      },
+      "properties": {
+        "station_code": "3085",
+        "station_name": "Chinnawaddepally tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.5,
+        "pH": 7.46,
+        "BOD": 5.2,
+        "COD": 68,
+        "Total_Coliform": 430,
+        "TDS": 740,
+        "wqi": 48.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.638, 18.035]
+      },
+      "properties": {
+        "station_code": "2345",
+        "station_name": "Sai Cheruvu",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.59,
+        "BOD": 12,
+        "COD": 304,
+        "Total_Coliform": 540,
+        "TDS": 4216,
+        "wqi": 25.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.598, 17.985]
+      },
+      "properties": {
+        "station_code": "4248",
+        "station_name": "Koti Cheruvu, Hanamkonda, Warangal",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.89,
+        "BOD": 6.4,
+        "COD": 82,
+        "Total_Coliform": 350,
+        "TDS": 528,
+        "wqi": 44.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.935, 18.385]
+      },
+      "properties": {
+        "station_code": "4680",
+        "station_name": "Laknavaram lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.9,
+        "pH": 7.76,
+        "BOD": 1,
+        "COD": 16,
+        "Total_Coliform": 22,
+        "TDS": 100,
+        "wqi": 78.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.825, 17.945]
+      },
+      "properties": {
+        "station_code": "4681",
+        "station_name": "Pakala lake Narsampet",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.8,
+        "pH": 8.33,
+        "BOD": 1.2,
+        "COD": 16,
+        "Total_Coliform": 46,
+        "TDS": 170,
+        "wqi": 77.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.542, 17.955]
+      },
+      "properties": {
+        "station_code": "4683",
+        "station_name": "Pedda cheruvu, Madikonda",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.8,
+        "pH": 7.34,
+        "BOD": 5.8,
+        "COD": 67,
+        "Total_Coliform": 350,
+        "TDS": 588,
+        "wqi": 47.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.115, 17.545]
+      },
+      "properties": {
+        "station_code": "4243",
+        "station_name": "Isnapur Tank,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 3,
+        "pH": 7.2,
+        "BOD": 20,
+        "COD": 224,
+        "Total_Coliform": 70,
+        "TDS": 2352,
+        "wqi": 42.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.265, 17.695]
+      },
+      "properties": {
+        "station_code": "4302",
+        "station_name": "Rudraram Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.9,
+        "pH": 7.16,
+        "BOD": 6.2,
+        "COD": 70,
+        "Total_Coliform": 36,
+        "TDS": 1352.4,
+        "wqi": 60.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.245, 17.612]
+      },
+      "properties": {
+        "station_code": "4240",
+        "station_name": "Muthangi Tank,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.1,
+        "pH": 7.41,
+        "BOD": 4.5,
+        "COD": 41,
+        "Total_Coliform": 38,
+        "TDS": 906.08,
+        "wqi": 69.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.285, 17.625]
+      },
+      "properties": {
+        "station_code": "4241",
+        "station_name": "Chitkul Tank,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.4,
+        "pH": 6.78,
+        "BOD": 3.4,
+        "COD": 37,
+        "Total_Coliform": 58,
+        "TDS": 906.64,
+        "wqi": 70.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.195, 17.585]
+      },
+      "properties": {
+        "station_code": "4242",
+        "station_name": "Lakadaram Cheruvu,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.2,
+        "pH": 7.32,
+        "BOD": 4.1,
+        "COD": 47,
+        "Total_Coliform": 34,
+        "TDS": 1321.04,
+        "wqi": 68.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.148, 17.485]
+      },
+      "properties": {
+        "station_code": "4238",
+        "station_name": "Ameenpur Cheruvu,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.1,
+        "pH": 8.06,
+        "BOD": 3.7,
+        "COD": 29,
+        "Total_Coliform": 58,
+        "TDS": 860.72,
+        "wqi": 71.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.038, 17.512]
+      },
+      "properties": {
+        "station_code": "4239",
+        "station_name": "Mahaboobsagar Tank,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.5,
+        "pH": 7.67,
+        "BOD": 3.2,
+        "COD": 28,
+        "Total_Coliform": 49,
+        "TDS": 640,
+        "wqi": 72.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.325, 17.745]
+      },
+      "properties": {
+        "station_code": "4244",
+        "station_name": "Erdanoor Tank,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.8,
+        "pH": 7.33,
+        "BOD": 3.6,
+        "COD": 34,
+        "Total_Coliform": 40,
+        "TDS": 1265.6,
+        "wqi": 71.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.365, 17.768]
+      },
+      "properties": {
+        "station_code": "4245",
+        "station_name": "Mallepally Tank,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.2,
+        "pH": 7.72,
+        "BOD": 4,
+        "COD": 40,
+        "Total_Coliform": 27,
+        "TDS": 1025.36,
+        "wqi": 70.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.185, 18.285]
+      },
+      "properties": {
+        "station_code": "4661",
+        "station_name": "Peddakanjarla Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.2,
+        "pH": 7.26,
+        "BOD": 3.6,
+        "COD": 34,
+        "Total_Coliform": 26,
+        "TDS": 380.8,
+        "wqi": 71.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.285, 18.325]
+      },
+      "properties": {
+        "station_code": "4666",
+        "station_name": "Ismailkhanpet Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.5,
+        "pH": 7.03,
+        "BOD": 4,
+        "COD": 44,
+        "Total_Coliform": 31,
+        "TDS": 762,
+        "wqi": 69.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.885, 17.685]
+      },
+      "properties": {
+        "station_code": "4688",
+        "station_name": "Narinja River, Kothur - B (V), Zaheerabad",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.1,
+        "pH": 7.59,
+        "BOD": 3.3,
+        "COD": 24,
+        "Total_Coliform": 34,
+        "TDS": 499,
+        "wqi": 72.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.195, 17.248]
+      },
+      "properties": {
+        "station_code": "4234",
+        "station_name": "Umda sagar lake, Shamshabad",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.88,
+        "BOD": 8,
+        "COD": 100,
+        "Total_Coliform": 540,
+        "TDS": 916,
+        "wqi": 38.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.215, 17.258]
+      },
+      "properties": {
+        "station_code": "4235",
+        "station_name": "Lake Kamuni ( Shamshabad Lake)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.79,
+        "BOD": 8,
+        "COD": 80,
+        "Total_Coliform": 430,
+        "TDS": 930,
+        "wqi": 39.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.465, 17.298]
+      },
+      "properties": {
+        "station_code": "5133",
+        "station_name": "Chandana Cheruvu, Jillelguda,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.94,
+        "BOD": 8,
+        "COD": 84,
+        "Total_Coliform": 350,
+        "TDS": 864,
+        "wqi": 39.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.512, 17.315]
+      },
+      "properties": {
+        "station_code": "5134",
+        "station_name": "Manthrala Cheruvu, Meerpet",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.61,
+        "BOD": 8,
+        "COD": 96,
+        "Total_Coliform": 430,
+        "TDS": 792,
+        "wqi": 38.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.152, 18.625]
+      },
+      "properties": {
+        "station_code": "4222",
+        "station_name": "Koneru, Kondagattu temple, Jagitiyal",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.3,
+        "pH": 7.87,
+        "BOD": 2.8,
+        "COD": 47,
+        "Total_Coliform": 49,
+        "TDS": 376,
+        "wqi": 72.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.595, 18.315]
+      },
+      "properties": {
+        "station_code": "4223",
+        "station_name": "Vemulawada temple Koneru , Karimnagar",
+        "water_body": "Lakes  & Tanks",
+        "DO": 4.3,
+        "pH": 7.78,
+        "BOD": 2,
+        "COD": 31,
+        "Total_Coliform": 110,
+        "TDS": 604,
+        "wqi": 71.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.152, 17.685]
+      },
+      "properties": {
+        "station_code": "1464",
+        "station_name": "Bibinagar Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.1,
+        "pH": 8.2,
+        "BOD": 3.9,
+        "COD": 46,
+        "Total_Coliform": 43,
+        "TDS": 842.8,
+        "wqi": 69.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.285, 17.345]
+      },
+      "properties": {
+        "station_code": "4230",
+        "station_name": "Kistaipally Cheruvu",
+        "water_body": "Lakes  & Tanks",
+        "DO": 4.8,
+        "pH": 7.34,
+        "BOD": 8.5,
+        "COD": 82,
+        "Total_Coliform": 63,
+        "TDS": 2744,
+        "wqi": 52.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.365, 17.418]
+      },
+      "properties": {
+        "station_code": "4231",
+        "station_name": "Rayam Cheruvu,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.5,
+        "pH": 6.98,
+        "BOD": 4.9,
+        "COD": 60,
+        "Total_Coliform": 41,
+        "TDS": 985,
+        "wqi": 65.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.418, 17.485]
+      },
+      "properties": {
+        "station_code": "4232",
+        "station_name": "Komati Cheruvu,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 7.2,
+        "pH": 7.36,
+        "BOD": 3.5,
+        "COD": 30,
+        "Total_Coliform": 24,
+        "TDS": 492,
+        "wqi": 73.2,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.485, 17.525]
+      },
+      "properties": {
+        "station_code": "4233",
+        "station_name": "Gaddapotharam cheruvu,",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5,
+        "pH": 6.98,
+        "BOD": 7.8,
+        "COD": 74,
+        "Total_Coliform": 49,
+        "TDS": 1990,
+        "wqi": 56.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.425, 17.335]
+      },
+      "properties": {
+        "station_code": "4228",
+        "station_name": "Pedda Cheruvu/Ibrahim Cheruvu, Rajendra Nagar",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.75,
+        "BOD": 10,
+        "COD": 107,
+        "Total_Coliform": 540,
+        "TDS": 912,
+        "wqi": 35.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.502, 17.445]
+      },
+      "properties": {
+        "station_code": "1391",
+        "station_name": "Hussain sagar Lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.9,
+        "BOD": 6.4,
+        "COD": 83,
+        "Total_Coliform": 540,
+        "TDS": 826,
+        "wqi": 43.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.472, 17.452]
+      },
+      "properties": {
+        "station_code": "3071",
+        "station_name": "Langarhouse lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.8,
+        "BOD": 6.4,
+        "COD": 88,
+        "Total_Coliform": 430,
+        "TDS": 783,
+        "wqi": 42.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.485, 17.385]
+      },
+      "properties": {
+        "station_code": "2341",
+        "station_name": "Miralam tank,kishan bagh",
+        "water_body": "Lakes  & Tanks",
+        "DO": 1.2,
+        "pH": 6.75,
+        "BOD": 5.4,
+        "COD": 63,
+        "Total_Coliform": 350,
+        "TDS": 782,
+        "wqi": 50.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.605, 17.485]
+      },
+      "properties": {
+        "station_code": "3073",
+        "station_name": "Hasmathpet lake, Hasmathpet",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.8,
+        "BOD": 8.2,
+        "COD": 118,
+        "Total_Coliform": 350,
+        "TDS": 556,
+        "wqi": 36.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.565, 17.465]
+      },
+      "properties": {
+        "station_code": "3072",
+        "station_name": "Safilguda lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.45,
+        "BOD": 6,
+        "COD": 88,
+        "Total_Coliform": 540,
+        "TDS": 690,
+        "wqi": 43.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.425, 17.405]
+      },
+      "properties": {
+        "station_code": "3075",
+        "station_name": "Rangadhamuni cheruvu",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.05,
+        "BOD": 6,
+        "COD": 74,
+        "Total_Coliform": 540,
+        "TDS": 662,
+        "wqi": 44.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.395, 17.505]
+      },
+      "properties": {
+        "station_code": "3076",
+        "station_name": "Amber cheruvu, Kukatpally",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.82,
+        "BOD": 8,
+        "COD": 99,
+        "Total_Coliform": 350,
+        "TDS": 728,
+        "wqi": 38.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.565, 17.438]
+      },
+      "properties": {
+        "station_code": "3077",
+        "station_name": "Kapra cheruvu, Kapra",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.6,
+        "pH": 6.46,
+        "BOD": 5.8,
+        "COD": 73,
+        "Total_Coliform": 350,
+        "TDS": 550,
+        "wqi": 47.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.395, 17.438]
+      },
+      "properties": {
+        "station_code": "2357",
+        "station_name": "Durgam cheruvu",
+        "water_body": "Lakes  & Tanks",
+        "DO": 1,
+        "pH": 6.87,
+        "BOD": 6,
+        "COD": 78,
+        "Total_Coliform": 430,
+        "TDS": 688,
+        "wqi": 45.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.582, 17.355]
+      },
+      "properties": {
+        "station_code": "2359",
+        "station_name": "Pedda Cheruvu, Nacharam",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.83,
+        "BOD": 6.2,
+        "COD": 74,
+        "Total_Coliform": 430,
+        "TDS": 766,
+        "wqi": 44.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.545, 17.415]
+      },
+      "properties": {
+        "station_code": "2342",
+        "station_name": "Noor Md. Kunta",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 8.08,
+        "BOD": 6.1,
+        "COD": 68,
+        "Total_Coliform": 540,
+        "TDS": 1254,
+        "wqi": 44.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.285, 17.525]
+      },
+      "properties": {
+        "station_code": "3070",
+        "station_name": "Fox sagar, Jeedimetla",
+        "water_body": "Lakes  & Tanks",
+        "DO": 2.9,
+        "pH": 7.32,
+        "BOD": 5.4,
+        "COD": 66,
+        "Total_Coliform": 350,
+        "TDS": 790,
+        "wqi": 53.8,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.365, 17.315]
+      },
+      "properties": {
+        "station_code": "4237",
+        "station_name": "Mundla Katwa Lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.63,
+        "BOD": 10,
+        "COD": 191,
+        "Total_Coliform": 540,
+        "TDS": 516,
+        "wqi": 32.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.335, 17.485]
+      },
+      "properties": {
+        "station_code": "4669",
+        "station_name": "Pedda Cheruvu, Gangaram (V), Serilingarampally (New Mandal)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.7,
+        "BOD": 8,
+        "COD": 87,
+        "Total_Coliform": 540,
+        "TDS": 682,
+        "wqi": 39.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.365, 17.425]
+      },
+      "properties": {
+        "station_code": "4672",
+        "station_name": "Medi Kunta (Wipro Lake), Nanakramguda",
+        "water_body": "Lakes  & Tanks",
+        "DO": 2.41,
+        "pH": 7.17,
+        "BOD": 4.8,
+        "COD": 54,
+        "Total_Coliform": 210,
+        "TDS": 766,
+        "wqi": 58.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.415, 17.515]
+      },
+      "properties": {
+        "station_code": "4674",
+        "station_name": "Meedi Kunta, Hafeezpet (V), Serlingampally",
+        "water_body": "Lakes  & Tanks",
+        "DO": 4.18,
+        "pH": 6.44,
+        "BOD": 4.8,
+        "COD": 60,
+        "Total_Coliform": 79,
+        "TDS": 538,
+        "wqi": 62.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.435, 17.585]
+      },
+      "properties": {
+        "station_code": "4677",
+        "station_name": "Lingam Cheruvu, Suraram (V), Quthubullapur",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.85,
+        "BOD": 6.6,
+        "COD": 95,
+        "Total_Coliform": 430,
+        "TDS": 860,
+        "wqi": 41.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.285, 17.458]
+      },
+      "properties": {
+        "station_code": "5052",
+        "station_name": "Bakshi Kunta, Chandhanagar, Serilingampally, rangareddy Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.52,
+        "BOD": 8,
+        "COD": 83,
+        "Total_Coliform": 210,
+        "TDS": 316,
+        "wqi": 41.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.352, 17.445]
+      },
+      "properties": {
+        "station_code": "5055",
+        "station_name": "Chinna Pedda Cheruvu, Gopanpally, Serilingampally, Rangareddy Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 8.18,
+        "BOD": 8,
+        "COD": 98,
+        "Total_Coliform": 350,
+        "TDS": 536,
+        "wqi": 38.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.405, 17.482]
+      },
+      "properties": {
+        "station_code": "5058",
+        "station_name": "Regula Kunta, Miyapur, Serilingampally, Rangareddy Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 2.6,
+        "pH": 7.14,
+        "BOD": 3.2,
+        "COD": 64,
+        "Total_Coliform": 350,
+        "TDS": 890,
+        "wqi": 56.8,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.325, 17.465]
+      },
+      "properties": {
+        "station_code": "5059",
+        "station_name": "Gopi Cheruvu, Lingampally, Serilingampally, Rangareddy Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.85,
+        "BOD": 8,
+        "COD": 84,
+        "Total_Coliform": 350,
+        "TDS": 716,
+        "wqi": 39.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.405, 17.528]
+      },
+      "properties": {
+        "station_code": "5115",
+        "station_name": "Raja Mohammad Kunta, Haffezpet, Serilingampally (M),",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.91,
+        "BOD": 6,
+        "COD": 60,
+        "Total_Coliform": 430,
+        "TDS": 782,
+        "wqi": 46.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.365, 17.455]
+      },
+      "properties": {
+        "station_code": "5116",
+        "station_name": "Kotha Cheruvu (Novotel Lake), Khanamet, Serilingampally",
+        "water_body": "Lakes  & Tanks",
+        "DO": 2.8,
+        "pH": 6.83,
+        "BOD": 4,
+        "COD": 40,
+        "Total_Coliform": 350,
+        "TDS": 682,
+        "wqi": 58.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.425, 17.545]
+      },
+      "properties": {
+        "station_code": "5118",
+        "station_name": "Kotha Kunta, Haffezpet, Serilingampally (M)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.59,
+        "BOD": 6,
+        "COD": 68,
+        "Total_Coliform": 280,
+        "TDS": 346,
+        "wqi": 46.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.345, 17.415]
+      },
+      "properties": {
+        "station_code": "5124",
+        "station_name": "TCS Synergy Park Lake",
+        "water_body": "Lakes  & Tanks",
+        "DO": 5.2,
+        "pH": 7.29,
+        "BOD": 1.2,
+        "COD": 20,
+        "Total_Coliform": 49,
+        "TDS": 508,
+        "wqi": 76.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.955, 17.565]
+      },
+      "properties": {
+        "station_code": "3086",
+        "station_name": "Saki Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 6.4,
+        "pH": 7.35,
+        "BOD": 3.5,
+        "COD": 31,
+        "Total_Coliform": 44,
+        "TDS": 627.2,
+        "wqi": 71.8,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.545, 17.365]
+      },
+      "properties": {
+        "station_code": "1788",
+        "station_name": "Saroornagar Lake / Large Tank",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.77,
+        "BOD": 18,
+        "COD": 203,
+        "Total_Coliform": 430,
+        "TDS": 796,
+        "wqi": 28.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.585, 17.455]
+      },
+      "properties": {
+        "station_code": "4670",
+        "station_name": "Bairamalaguda Cheruvu / Maddela Kunta, Medchal-Malkajigiri District.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.87,
+        "BOD": 10,
+        "COD": 124,
+        "Total_Coliform": 540,
+        "TDS": 546,
+        "wqi": 34.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.595, 17.348]
+      },
+      "properties": {
+        "station_code": "4678",
+        "station_name": "Patel Cheruvu, Nacharam, Medchal-Malkajigiri District.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.2,
+        "BOD": 14,
+        "COD": 335,
+        "Total_Coliform": 350,
+        "TDS": 686,
+        "wqi": 28.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.572, 17.378]
+      },
+      "properties": {
+        "station_code": "4691",
+        "station_name": "Nagole Cheruvu, Uppal Malkajigiri District.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.78,
+        "BOD": 10,
+        "COD": 128,
+        "Total_Coliform": 430,
+        "TDS": 746,
+        "wqi": 34.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.605, 17.365]
+      },
+      "properties": {
+        "station_code": "4692",
+        "station_name": "Ramanthapur Pedda Cheruvu, Medchal-Malkajigiri District.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.33,
+        "BOD": 14,
+        "COD": 203,
+        "Total_Coliform": 350,
+        "TDS": 640,
+        "wqi": 29.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.368, 17.352]
+      },
+      "properties": {
+        "station_code": "4702",
+        "station_name": "Pedda Cheruvu - Khaja guda, Khajaguda (V), Serlingampally (new mandal)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 3.8,
+        "pH": 7.43,
+        "BOD": 12,
+        "COD": 111,
+        "Total_Coliform": 350,
+        "TDS": 884,
+        "wqi": 48.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.515, 17.348]
+      },
+      "properties": {
+        "station_code": "4704",
+        "station_name": "Pedda Cheruvu, Mansoorabad, Saroornagar, Rangareddy District.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.69,
+        "BOD": 8.2,
+        "COD": 153,
+        "Total_Coliform": 350,
+        "TDS": 548,
+        "wqi": 37.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.595, 17.405]
+      },
+      "properties": {
+        "station_code": "5040",
+        "station_name": "Bandlaguda Cheruvu, Bandlaguda, Uppal, Medchal Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.68,
+        "BOD": 12,
+        "COD": 287,
+        "Total_Coliform": 430,
+        "TDS": 848,
+        "wqi": 30.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.615, 17.395]
+      },
+      "properties": {
+        "station_code": "5041",
+        "station_name": "Pathulguda, Uppal, Medchal Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.97,
+        "BOD": 8,
+        "COD": 122,
+        "Total_Coliform": 540,
+        "TDS": 830,
+        "wqi": 37.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.618, 17.372]
+      },
+      "properties": {
+        "station_code": "5113",
+        "station_name": "Chinna Cheruvu, Ramanthapur Bagat, Uppal",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.7,
+        "BOD": 10,
+        "COD": 163,
+        "Total_Coliform": 350,
+        "TDS": 706,
+        "wqi": 33.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.485, 17.285]
+      },
+      "properties": {
+        "station_code": "5126",
+        "station_name": "Bathula Cheruvu, Amangal, Hayathnagar",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.84,
+        "BOD": 8,
+        "COD": 139,
+        "Total_Coliform": 540,
+        "TDS": 690,
+        "wqi": 36.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.505, 17.292]
+      },
+      "properties": {
+        "station_code": "5127",
+        "station_name": "Kummari Kunta, Amangal, Hayathnagar",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.58,
+        "BOD": 8,
+        "COD": 100,
+        "Total_Coliform": 350,
+        "TDS": 518,
+        "wqi": 39.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.398, 17.325]
+      },
+      "properties": {
+        "station_code": "5129",
+        "station_name": "Erra Kunta, Laxmiguda, Rajenderanagar",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.41,
+        "BOD": 10,
+        "COD": 159,
+        "Total_Coliform": 540,
+        "TDS": 960,
+        "wqi": 33.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.445, 17.312]
+      },
+      "properties": {
+        "station_code": "5130",
+        "station_name": "Pathikunta, Budwel, Rajendranagar",
+        "water_body": "Lakes  & Tanks",
+        "DO": 2.1,
+        "pH": 7.78,
+        "BOD": 5,
+        "COD": 68,
+        "Total_Coliform": 350,
+        "TDS": 618,
+        "wqi": 54.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.385, 17.412]
+      },
+      "properties": {
+        "station_code": "5132",
+        "station_name": "Malkam Cheruvu, Raidurgam, Serilingampally",
+        "water_body": "Lakes  & Tanks",
+        "DO": 1.6,
+        "pH": 7.3,
+        "BOD": 32,
+        "COD": 226,
+        "Total_Coliform": 220,
+        "TDS": 994,
+        "wqi": 38.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.525, 17.585]
+      },
+      "properties": {
+        "station_code": "4668",
+        "station_name": "Chinnarayan Cheruvu, Alwal (V)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.66,
+        "BOD": 8,
+        "COD": 100,
+        "Total_Coliform": 540,
+        "TDS": 440,
+        "wqi": 38.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.545, 17.525]
+      },
+      "properties": {
+        "station_code": "4676",
+        "station_name": "Banda Cheruvu, Malkajigiri (V),Malkajigiri (new mandal)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.86,
+        "BOD": 6.8,
+        "COD": 92,
+        "Total_Coliform": 350,
+        "TDS": 772,
+        "wqi": 41.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.315, 17.448]
+      },
+      "properties": {
+        "station_code": "4701",
+        "station_name": "Lingam kunta lake Chandanagar,Serilingampally, Rangareddy (Dist)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 6.73,
+        "BOD": 6,
+        "COD": 76,
+        "Total_Coliform": 540,
+        "TDS": 750,
+        "wqi": 44.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.415, 17.495]
+      },
+      "properties": {
+        "station_code": "4695",
+        "station_name": "Khaja Kunta, Kukatpally (V)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 2.1,
+        "pH": 7.98,
+        "BOD": 4,
+        "COD": 66,
+        "Total_Coliform": 350,
+        "TDS": 640,
+        "wqi": 58.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.425, 17.508]
+      },
+      "properties": {
+        "station_code": "4696",
+        "station_name": "Parki Cheruvu, Kukatpally (V), Balanagar",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.78,
+        "BOD": 8,
+        "COD": 103,
+        "Total_Coliform": 430,
+        "TDS": 898,
+        "wqi": 38.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.515, 17.595]
+      },
+      "properties": {
+        "station_code": "4698",
+        "station_name": "Mannevari Kunta, Machabollaram (V), Alwal",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.76,
+        "BOD": 10,
+        "COD": 111,
+        "Total_Coliform": 540,
+        "TDS": 820,
+        "wqi": 35.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.535, 17.592]
+      },
+      "properties": {
+        "station_code": "4705",
+        "station_name": "Kotha Cheruvu (Alwal Cheruvu), Alwal (V),",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.86,
+        "BOD": 10,
+        "COD": 111,
+        "Total_Coliform": 350,
+        "TDS": 852,
+        "wqi": 35.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.185, 17.625]
+      },
+      "properties": {
+        "station_code": "5036",
+        "station_name": "Ramana Cheruvu,Boinpally, Thirumalagiri, Medchal-Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 1.7,
+        "pH": 7.85,
+        "BOD": 5.8,
+        "COD": 64,
+        "Total_Coliform": 280,
+        "TDS": 410,
+        "wqi": 56.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.395, 17.485]
+      },
+      "properties": {
+        "station_code": "5042",
+        "station_name": "Yellamma Cheruvu, Kukatpally, Medchal- Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.73,
+        "BOD": 10,
+        "COD": 115,
+        "Total_Coliform": 540,
+        "TDS": 772,
+        "wqi": 34.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.405, 17.492]
+      },
+      "properties": {
+        "station_code": "5043",
+        "station_name": "Mysamma Cheruvu, Kukatpally, Balangar, Medchal- Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.92,
+        "BOD": 6.2,
+        "COD": 67,
+        "Total_Coliform": 350,
+        "TDS": 818,
+        "wqi": 45.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.525, 17.605]
+      },
+      "properties": {
+        "station_code": "5045",
+        "station_name": "MothkulaKunta, Machabollaram, Alwal, Medchal- Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.64,
+        "BOD": 8,
+        "COD": 99,
+        "Total_Coliform": 350,
+        "TDS": 680,
+        "wqi": 39.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.455, 17.565]
+      },
+      "properties": {
+        "station_code": "5046",
+        "station_name": "Chintal Cheruvu, Gajularamaram, Quthbullapur, Medchal- Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 3.5,
+        "pH": 7.66,
+        "BOD": 3,
+        "COD": 59,
+        "Total_Coliform": 350,
+        "TDS": 456,
+        "wqi": 64.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.465, 17.595]
+      },
+      "properties": {
+        "station_code": "5047",
+        "station_name": "Mahaboob Kunta, Suraram,Quthubullapur, Medchal-Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 3.7,
+        "pH": 7.96,
+        "BOD": 4,
+        "COD": 67,
+        "Total_Coliform": 430,
+        "TDS": 668,
+        "wqi": 60.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.475, 17.558]
+      },
+      "properties": {
+        "station_code": "5048",
+        "station_name": "Bandam Cheruvu, Gajularamaram, Quthbullapur, Medchal- Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 1,
+        "pH": 7.92,
+        "BOD": 6,
+        "COD": 75,
+        "Total_Coliform": 540,
+        "TDS": 760,
+        "wqi": 45.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.315, 17.545]
+      },
+      "properties": {
+        "station_code": "5050",
+        "station_name": "Venna Cheruvu, Jeedimetla,Quthbullapur, Medchal- Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 2.5,
+        "pH": 7.51,
+        "BOD": 3.8,
+        "COD": 62,
+        "Total_Coliform": 350,
+        "TDS": 790,
+        "wqi": 60.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.485, 17.605]
+      },
+      "properties": {
+        "station_code": "5051",
+        "station_name": "Chinna Bandam,Suraram,Quthubullapur, Medchal-Malkajgiri Dist.",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.8,
+        "BOD": 8,
+        "COD": 110,
+        "Total_Coliform": 430,
+        "TDS": 732,
+        "wqi": 38.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.565, 17.542]
+      },
+      "properties": {
+        "station_code": "5111",
+        "station_name": "Nagireddy Kunta (Yapral Cheruvu), Yapral",
+        "water_body": "Lakes  & Tanks",
+        "DO": 4.2,
+        "pH": 7.78,
+        "BOD": 4,
+        "COD": 56,
+        "Total_Coliform": 540,
+        "TDS": 970,
+        "wqi": 60.8,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.408, 17.488]
+      },
+      "properties": {
+        "station_code": "5112",
+        "station_name": "Kamuni Cheruvu, Kukatpally",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.66,
+        "BOD": 10,
+        "COD": 120,
+        "Total_Coliform": 540,
+        "TDS": 846,
+        "wqi": 34.2,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.485, 17.545]
+      },
+      "properties": {
+        "station_code": "4675",
+        "station_name": "Lotus pond, Hakimpet (V), Shaik pet (new mandal)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 3.8,
+        "pH": 7.65,
+        "BOD": 3,
+        "COD": 40,
+        "Total_Coliform": 350,
+        "TDS": 484,
+        "wqi": 64.8,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.565, 17.385]
+      },
+      "properties": {
+        "station_code": "4667",
+        "station_name": "Surram Cheruvu (Palle Cheruvu), Bandlaguda (V), Bandlaguda (new mandal)",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.57,
+        "BOD": 6,
+        "COD": 72,
+        "Total_Coliform": 540,
+        "TDS": 1094,
+        "wqi": 44.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.442, 17.422]
+      },
+      "properties": {
+        "station_code": "4689",
+        "station_name": "Sunnam Kunta, Jubille hills",
+        "water_body": "Lakes  & Tanks",
+        "DO": 4.8,
+        "pH": 7.06,
+        "BOD": 4,
+        "COD": 56,
+        "Total_Coliform": 70,
+        "TDS": 186,
+        "wqi": 66.5,
+        "quality_class": "Safe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.462, 17.412]
+      },
+      "properties": {
+        "station_code": "5030",
+        "station_name": "Naya Quila Talab, Golconda, Hyderabad",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.72,
+        "BOD": 6,
+        "COD": 108,
+        "Total_Coliform": 350,
+        "TDS": 722,
+        "wqi": 44.8,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.452, 17.398]
+      },
+      "properties": {
+        "station_code": "5032",
+        "station_name": "Kotha Cheruvu, Shaikpet, Hyderabad",
+        "water_body": "Lakes  & Tanks",
+        "DO": 1.2,
+        "pH": 7.79,
+        "BOD": 4,
+        "COD": 56,
+        "Total_Coliform": 430,
+        "TDS": 904,
+        "wqi": 56.8,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.458, 17.388]
+      },
+      "properties": {
+        "station_code": "5034",
+        "station_name": "Shikari Kunta, Shaikpet, Hyderabad",
+        "water_body": "Lakes  & Tanks",
+        "DO": 3.8,
+        "pH": 8.02,
+        "BOD": 4.2,
+        "COD": 64,
+        "Total_Coliform": 350,
+        "TDS": 694,
+        "wqi": 61.5,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.468, 17.378]
+      },
+      "properties": {
+        "station_code": "5035",
+        "station_name": "Bathur Kunta, Shaikpet, Hyderabad",
+        "water_body": "Lakes  & Tanks",
+        "DO": 1.3,
+        "pH": 7.96,
+        "BOD": 4,
+        "COD": 48,
+        "Total_Coliform": 430,
+        "TDS": 806,
+        "wqi": 58.2,
+        "quality_class": "Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.548, 17.338]
+      },
+      "properties": {
+        "station_code": "5038",
+        "station_name": "Salkam Cheruvu, Bandlaguda, Hyderabad",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.8,
+        "BOD": 8,
+        "COD": 92,
+        "Total_Coliform": 540,
+        "TDS": 1294,
+        "wqi": 38.5,
+        "quality_class": "Highly Polluted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.495, 17.328]
+      },
+      "properties": {
+        "station_code": "5039",
+        "station_name": "DMRL, Lake, Kanchanbagh, Hyderabad",
+        "water_body": "Lakes  & Tanks",
+        "DO": 0.3,
+        "pH": 7.18,
+        "BOD": 14,
+        "COD": 331,
+        "Total_Coliform": 540,
+        "TDS": 914,
+        "wqi": 28.8,
+        "quality_class": "Highly Polluted"
+      }
+    }
+  ]
+}

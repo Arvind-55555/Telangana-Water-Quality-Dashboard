@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telangana Water Quality Monitoring Framework</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <i class="fas fa-water"></i>
+                <span>Telangana Water Quality Monitoring</span>
+            </div>
+            <div class="nav-links">
+                <a href="index.html" class="active">Dashboard</a>
+                <a href="howtouse.html">How to Use</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact</a>
+                <a href="https://buymeacoffee.com/arvind1111" target="_blank" class="support-link">
+                    <i class="fas fa-coffee"></i> Support
+                </a>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="main-container">
+        <h1 class="page-title">Water Quality Monitoring Dashboard</h1>
+        <p class="page-subtitle">Interactive geospatial visualization of 213 monitoring stations across Telangana</p>
+        
+        <div id="map"></div>
+    </div>
+    
+    <footer class="footer">
+        <p>&copy; 2025 Telangana Water Quality Monitoring Project | Data: Telangana Pollution Control Board, June 2025</p>
+        <p>Developed using Leaflet.js | Standalone Dashboard</p>
+    </footer>
+    
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
