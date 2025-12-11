@@ -54,4 +54,3 @@ Deployed on GitHub Pages: https://arvind-55555.github.io/SWOT-Dashboard/
 
 ---
 
-**© 2025 | Support:** https://buymeacoffee.com/arvind1111
