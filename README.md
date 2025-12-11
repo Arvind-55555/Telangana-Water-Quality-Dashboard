@@ -9,7 +9,7 @@ Interactive geospatial visualization dashboard for monitoring water quality acro
 ### Live Artifact
 [![View Artifact](https://img.shields.io/badge/View%20Artifact-%230077B5.svg?style=for-the-badge&logo=claude&logoColor=white)](https://arvind-55555.github.io/Telangana-Water-Quality-Dashboard/index.html)
 
-[![Water Quality Dashboard](https://img.shields.io/badge/Water%20Quality%20Dashboard-%23667eea.svg?style=for-the-badge)](https://water-quality-p81j4vv.gamma.site/)
+[![Water Quality Analytics](https://img.shields.io/badge/Water%20Quality%20Dashboard-%23667eea.svg?style=for-the-badge)](https://water-quality-p81j4vv.gamma.site/)
 
 ---
 ## Features
