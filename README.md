@@ -22,12 +22,12 @@ Interactive geospatial visualization dashboard for monitoring water quality acro
 ## Quick Start
 
 ### Online (No Installation)
-Visit: https://arvind-55555.github.io/SWOT-Dashboard/
+Visit: https://arvind-55555.github.io/Telangana-Water-Quality-Dashboard/
 
 ### Local Development
 ```bash
-git clone https://github.com/Arvind-55555/SWOT-Dashboard.git
-cd SWOT-Dashboard
+git clone https://github.com/Arvind-55555/Telangana-Water-Quality-Dashboard.git
+cd Telangana-Water-Quality-Dashboard
 ./launch.sh
 ```
 
@@ -44,7 +44,7 @@ cd SWOT-Dashboard
 
 ## Deployment
 
-Deployed on GitHub Pages: https://arvind-55555.github.io/SWOT-Dashboard/
+Deployed on GitHub Pages: https://arvind-55555.github.io/Telangana-Water-Quality-Dashboard/
 
 ## Credits
 
